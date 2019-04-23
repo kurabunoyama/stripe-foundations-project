@@ -12,3 +12,16 @@
   padding: 25px;
   font-size: 1.5em;
 }
+
+body {
+  background: blanchedalmond;
+
+}
+
+h1 {
+  color: red;
+  background-color: goldenrod;
+  border-style: dotted dashed solid double;
+  border-width: 10px;
+  border-radius: 5px;
+}
